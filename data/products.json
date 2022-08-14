@@ -5,5 +5,12 @@
     "imageUrl": "https://picsum.photos/id/10/200/300",
     "description": "Cool trees, rich in timber.",
     "price": "250"
+  },
+  {
+    "title": "Laptop",
+    "imageUrl": "https://picsum.photos/id/2/200/300",
+    "description": "A mid-range flagship laptop",
+    "price": "1200",
+    "id": "0.9624616478718073"
   }
 ]
