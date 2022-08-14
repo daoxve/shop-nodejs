@@ -1,1 +1,9 @@
-[{"title":"Tree","imageUrl":"https://picsum.photos/id/10/200/300","description":"Cool trees, rich in timber.","price":"250"}]
+[
+  {
+    "id": "123325",
+    "title": "Tree",
+    "imageUrl": "https://picsum.photos/id/10/200/300",
+    "description": "Cool trees, rich in timber.",
+    "price": "250"
+  }
+]
