@@ -1,1 +1,16 @@
-[{"id":"123325","title":"Tree Stump","imageUrl":"https://picsum.photos/id/10/200/300","description":"Cool trees, rich in timber.","price":"70.00"},{"id":"0.9624616478718073","title":"Laptop","imageUrl":"https://picsum.photos/id/2/200/300","description":"A mid-range flagship laptop","price":"500.00"}]
+[
+  {
+    "id": "123325",
+    "title": "Tree Stump",
+    "imageUrl": "https://picsum.photos/id/10/200/300",
+    "description": "Cool trees, rich in timber.",
+    "price": "70.00"
+  },
+  {
+    "id": "0.9624616478718073",
+    "title": "Laptop",
+    "imageUrl": "https://picsum.photos/id/2/200/300",
+    "description": "A mid-range flagship laptop",
+    "price": "500.00"
+  }
+]
